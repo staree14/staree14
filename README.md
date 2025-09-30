@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-I'm a Computer science student passionate about building useful apps.
-
+I'm a computer science student dreaming big.
 
 Skills: Frontend( HTML, CSS, JS),
         Flask,
-        Python
+        Python language.
 
-Interests: Creating new things, music and fitness.
+Interests: Creating
 
