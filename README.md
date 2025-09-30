@@ -6,5 +6,5 @@ Skills: Frontend( HTML, CSS, JS),
         Flask,
         Python language.
 
-Interests: Creating
+Interests: Creating.
 
