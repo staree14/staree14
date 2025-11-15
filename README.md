@@ -2,9 +2,7 @@
 
 I'm a computer science student dreaming big.
 
-Skills: Frontend( HTML, CSS, JS),
-        Flask,
-        Python language.
+Tools and Languages: Frontend( HTML, CSS, JS), Flask (Backend Development), Python.
 
 Interests: Creating.
 
