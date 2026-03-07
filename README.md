@@ -80,12 +80,12 @@
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 
 I'm always open to collaborating on projects related to:
-- 🚀 Backend development and API design
-- 🤖 AI/ML integration and optimization
-- 🌍 Environmental sustainability through tech
+- Backend development and API design
+- AI/ML integration and optimization
+- Environmental sustainability through tech
 
 Feel free to reach out if you'd like to work together or just chat about technology!
 
