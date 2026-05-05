@@ -1,92 +1,97 @@
-<h1 align="center">Hi 👋, I'm Sreeya</h1>
-<h3 align="center">A passionate second-year computer science student exploring the intersection of AI, backend systems, and impact-driven technology</h3>
+<h1 align="center">Hey! I'm Sreeya</h1>
+<h3 align="center">Builder | Backend + AI Systems | GSoC Contributor</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=staree14&label=Profile%20views&color=0e75b6&style=flat" alt="staree14" />
+  <b>I build things that actually work.</b><br/>
 </p>
 
 ---
 
-### 🚀 About Me
+## ⚡ Who I Am
 
-- 🔭 Currently focused on **building scalable backend systems** with **FastAPI** and **Flask**
-- 🤖 Integrating **AI/ML solutions** to enhance application performance and automation
-- 🌍 Passionate about **space technology** and **environmental sustainability** through tech
-- 💡 I love working on **meaningful projects with real world impact**
-- 🌱 Always learning, always growing through challenges and exploration
-- 📫 Reach me at **sreeya.kr20@gmail.com**
+I'm a second-year CSE student focused on **building real, usable systems** — not just tutorials.
 
----
+- 🚀 **GSoC Contributor** — working in open source, collaborating globally, shipping real code  
+- 🛠️ I build **backend-heavy applications** with AI integrated where it actually adds value  
+- 🤖 Interested in **applied AI**, not just theory  
+- 🌱 Currently leveling up in **DSA + System Design + scalable architectures**  
+- 🌍 I care about **impact-driven tech** — sustainability, real-world problems, meaningful products  
 
-### 💻 Technical Skills
-
-**Backend Development**
-- Building RESTful APIs with FastAPI and Flask
-- Database design and management (PostgreSQL, MySQL)
-- Server-side logic and application architecture
-
-**AI & Machine Learning**
-- Implementing AI models for performance optimization
-- Working with Python libraries for data processing and analysis
-- Exploring ML applications in real-world scenarios
-
-**Web Development**
-- Frontend: HTML5, CSS3, Bootstrap
-- Creating responsive and user-friendly interfaces
-- Full-stack development capabilities
-
-**Programming Languages**
-- Python (Primary)
-- Java
-- C
-- SQL
+And yeah - I **touch grass**, lift, and stay active 🌿  
+Balance matters.
 
 ---
 
-### 🛠️ Languages and Tools
+## 🔥 What I’m Focused On
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+- Building **production-ready backend systems**
+- Designing **clean APIs + scalable architectures**
+- Integrating **ML into real applications**
+- Contributing to **open source consistently**
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,sql" />
+</p>
+
+### ⚙️ Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+</p>
+
+### 🌐 Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,pytorch" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=staree14&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=staree14&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Current Mindset
+
+> Build fast. Learn deeply. Stay consistent.  
+> No shortcuts — just compounding effort.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="pixel cat" />
+</p>
+
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sreeya.kr20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/staree14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### Let's Connect!
-
-I'm always open to collaborating on projects related to:
-- Backend development and API design
-- AI/ML integration and optimization
-- Environmental sustainability through tech
-
-Feel free to reach out if you'd like to work together or just chat about technology!
-
----
+⭐ <sub>Building cool things. Staying curious. Showing up every day.</sub>
