@@ -5,6 +5,10 @@
   <b>I build things that actually work.</b><br/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=staree14&label=Profile%20views&color=0e75b6&style=flat-square" alt="staree14" />
+</p>
+
 ---
 
 ## ⚡ Who I Am
