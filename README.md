@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Sreeya</h1>
-<h3 align="center">Builder | Backend + AI Systems | GSoC Contributor</h3>
+<h3 align="center">Builder | Backend + AI Systems | GSoC Contributor '26 at IOOS </h3>
 
 <p align="center">
   <b>I build things that actually work.</b><br/>
