@@ -17,21 +17,19 @@ I'm a second-year CSE student focused on **building real, usable systems** — n
 
 - 🚀 **GSoC Contributor** — working in open source, collaborating globally, shipping real code  
 - 🛠️ I build **backend-heavy applications** with AI integrated where it actually adds value  
-- 🤖 Interested in **applied AI**, not just theory  
 - 🌱 Currently leveling up in **DSA + System Design + scalable architectures**  
 - 🌍 I care about **impact-driven tech** — sustainability, real-world problems, meaningful products  
 
-And yeah - I **touch grass**, lift, and stay active 🌿  
+And yeah - I **touch grass** and stay active 🌿  
 Balance matters.
 
 ---
 
 ## 🔥 What I’m Focused On
-
+- Trying out new things and gaining **skills**
 - Building **production-ready backend systems**
 - Designing **clean APIs + scalable architectures**
 - Integrating **ML into real applications**
-- Contributing to **open source consistently**
 
 ---
 
