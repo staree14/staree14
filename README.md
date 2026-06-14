@@ -13,7 +13,7 @@
 
 ## ⚡ Who I Am
 
-I'm a second-year CSE student focused on **building real, usable systems** — not just tutorials.
+I'm a second-year CSE student focused on **building real, usable systems**
 
 - 🚀 **GSoC Contributor** — working in open source, collaborating globally, shipping real code  
 - 🛠️ I build **backend-heavy applications** with AI integrated where it actually adds value  
@@ -25,7 +25,7 @@ Balance matters.
 
 ---
 
-## 🔥 What I’m Focused On
+## What I’m Focused On
 - Trying out new things and gaining **skills**
 - Building **production-ready backend systems**
 - Designing **clean APIs + scalable architectures**
@@ -33,7 +33,7 @@ Balance matters.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### 💻 Languages
 <p>
