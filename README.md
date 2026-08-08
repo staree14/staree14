@@ -11,7 +11,7 @@
 
 ---
 
-## ⚡ Who I Am
+## About Me
 
 I'm a second-year CSE student focused on **building real, usable systems**
 
