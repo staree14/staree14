@@ -1,38 +1,70 @@
-<h1 align="center">Hey! I'm Sreeya</h1>
-<h3 align="center">Builder | Backend + AI Systems | GSoC Contributor '26 at IOOS </h3>
+<div align="center">
 
-<p align="center">
-  <b>I build things that actually work.</b><br/>
-</p>
+<img src="./header.svg" alt="Sreeya — Builder, Backend + AI, GSoC '26 @ IOOS" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=staree14&label=Profile%20views&color=0e75b6&style=flat-square" alt="staree14" />
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=16&pause=1000&color=0EF6CC&center=true&vCenter=true&width=460&lines=%3E+currently+building+something+cool...;%3E+GSoC+contributor+%40+IOOS;%3E+touching+grass+%26+shipping+code+%F0%9F%8C%BF" alt="Typing SVG" />
 
-## About Me
+<br/>
 
-I'm a third-year CSE student focused on **building real, usable systems**
+<img src="https://komarev.com/ghpvc/?username=staree14&label=visitors&color=0e75b6&style=flat-square" alt="staree14" />
 
-- 🚀 **GSoC Contributor** — working in open source, collaborating globally, shipping real code  
-- 🛠️ I build **backend-heavy applications** with AI integrated where it actually adds value  
-- 🌱 Currently leveling up in **System Design + scalable architectures +DSA**  
-- 🌍 I care about **impact-driven tech** — sustainability, real-world problems, meaningful products  
-
-And yeah - I **touch grass** and stay active 🌿  
+</div>
 
 ---
 
-## What I’m Focused On
-- Trying out new things and gaining **skills**
-- Building **production-ready backend systems**
-- Designing **clean APIs + scalable architectures**
-- Integrating **ML into real applications** 
+## `> whoami`
+
+Third-year CSE student. I like building **real systems that solve real problems** — backend-heavy, AI where it adds value, and always meaningful.
+
+- Currently leveling up in System Design + scalable architectures + DSA (green coding) 
+- I gravitate toward **ML pipelines, API design, and systems** that need to actually work under pressure  
+- Most of my projects orbit **sustainability + safety** — oceans, waste, clinical AI, home security
+- **GSoC '26 Contributor** at IOOS — shipping code in the open, collaborating globally    
 
 ---
 
-## Tech Stack
+## `> ls projects/`
+
+### `drwxr-xr-x  ML + AI`
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[AquaScan — Marine Debris Detection](https://github.com/staree14/marine-debris-detector)** | Automated underwater debris + anomaly detection from side-scan sonar imagery. Object detection and segmentation on real sonar data. **SIH — Top 10 / 135 teams.** | YOLOv8, Python, OpenCV |
+| **[ClawSentinel — Smart Home AI](https://github.com/staree14/claw-sentinel)** | Context-aware home security intelligence layer — Isolation Forest anomaly detection + multi-agent reasoning via OpenClaw. Knows your cat from a criminal. **Samsung PRISM.** | FastAPI, Scikit-learn, React, Three.js, OpenClaw |
+| **[ClinicalTriage-RL](https://github.com/staree14/clinical-triage-env)** | POMDP-based ER triage env where an LLM agent must discover hidden symptoms before diagnosing. GRPO-trained to beat expert baselines — 82% less test spam, 340% more discovery. **Meta × Scaler OpenEnv Hackathon.** | Python, GRPO, RL, Docker, HuggingFace |
+| **[CodeSentinel — AI Code Security](https://github.com/staree14/code-sentinel)** | AWS-native platform that scans codebases for vulnerabilities using LLM-powered analysis. Built in 24 hours. **AWS AI/GenAI Hackathon.** | AWS Bedrock, Lambda, Python, React |
+| **[Mangrove Change Detection](LINK)** | Multi-year satellite land cover classification for Pichavaram mangroves. RF + ConvLSTM pipeline on Landsat time series to detect ecosystem loss/gain. | Python, Scikit-learn, TensorFlow, GIS, CNN |
+| **[Sky Swachh](https://github.com/staree14/sky-swachh)** | Satellite + space tech for solid waste detection and monitoring. **2nd place — Space Tech Hackathon (top 20 / 170+ teams).** | Python, Computer Vision, GIS |
+
+### `drwxr-xr-x  Systems + Backend`
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[SARATHI — Smart Convoy AI](LINK)** | Multi-convoy route optimization for military logistics. OSRM routing + OR-Tools solver. **CODE RED 3.0 — Top 15 / 1000+ teams.** | FastAPI, OR-Tools, OSRM, Python |
+| **Campus HelpDesk** | NLP-powered chatbot for student queries — syllabus, timetable, faculty lookup via retrieval pipeline. | Python, NLP, FastAPI |
+
+### `drwxr-xr-x  Web + Full Stack`
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Quest — Goal Tracker](LINK)** | Full-stack goal tracking with auth, CRUD, and Chart.js progress viz. | Flask, JavaScript, HTML/CSS |
+| **[Sanity Saviour](LINK)** | Responsive mental health awareness web app. | HTML, CSS, JavaScript |
+
+---
+
+## `> cat gsoc.md`
+
+### 🌊 GSoC 2026 — IOOS / noaa_coops
+
+[> Link to Report ](https://medium.com/@sreeyachand/google-summer-of-code-2026-final-work-report-ioos-a203eb4c8b76)
+
+Contributing to the `noaa_coops` Python package for NOAA CO-OPS ocean data APIs. Modernizing the library's API surface, improving test coverage, and shipping new data access methods for the oceanographic research community.
+
+---
+
+## `> cat tech_stack.txt`
 
 ### 💻 Languages
 <p>
@@ -46,7 +78,7 @@ And yeah - I **touch grass** and stay active 🌿
 
 ### 🌐 Web
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </p>
 
 ### 🗄 Databases
@@ -71,21 +103,29 @@ And yeah - I **touch grass** and stay active 🌿
 
 ---
 
-## 🧩 Current Mindset
+## `> echo $MINDSET`
 
-> Build fast. Learn deeply. Stay consistent.  
+```
+> Build fast. Learn deeply. Stay consistent.
 > No shortcuts — just compounding effort.
+> I would rather try and fail than do nothing at all.
+```
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="pixel cat" />
 </p>
 
+---
 
-## 📫 Connect With Me
+## `> contact --reach-me`
 
 <p align="center">
   <a href="mailto:sreeya.kr20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sreeya-chand">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/staree14">
@@ -95,4 +135,13 @@ And yeah - I **touch grass** and stay active 🌿
 
 ---
 
-⭐ <sub>Building cool things. Staying curious. Showing up every day.</sub>
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════╗
+║  Built with caffeine and compounding effort.  ║
+║  Thanks for stopping by! ⭐                   ║
+╚═══════════════════════════════════════════════╝
+```
+
+</div>
