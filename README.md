@@ -16,11 +16,10 @@
 
 ## `> whoami`
 
-Third-year CSE student. I like building **real systems that solve real problems** — backend-heavy, AI where it adds value, and always meaningful.
-
+Third-year CSE student. I like building **real systems that solve real problems** — backend-heavy + AI where it adds value.
 - Currently leveling up in System Design + scalable architectures + DSA (green coding) 
 - I gravitate toward **ML pipelines, API design, and systems** that need to actually work under pressure  
-- Most of my projects orbit **sustainability + safety** — oceans, waste, clinical AI, home security
+- Most of my projects orbit **sustainability + safety** — oceans, waste, ML models for predicting the next best move!
 - **GSoC '26 Contributor** at IOOS — shipping code in the open, collaborating globally    
 
 ---
