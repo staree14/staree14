@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/pixel-jeff-witch.gif" width="120" alt="Pixel Jeff witch" />   
+  <img src="./assets/pixel-jeff-witch.gif" width="80%" alt="Pixel Jeff witch" />   
 </p>
 
 <h1 align="center">Hi, I'm Sreeya </h1>
