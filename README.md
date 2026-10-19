@@ -1,16 +1,23 @@
-<div align="center">
 
-<img src="./header.svg" alt="Sreeya — Builder, Backend + AI, GSoC '26 @ IOOS" width="100%"/>
+<p align="center">
+  <img src="./assets/pixel-jeff-witch.gif" width="120" alt="Pixel Jeff witch" />   
+</p>
 
-<br/>
+<h1 align="center">Hi, I'm Sreeya </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=16&pause=1000&color=0EF6CC&center=true&vCenter=true&width=460&lines=%3E+currently+building+something+cool...;%3E+GSoC+contributor+%40+IOOS;%3E+touching+grass+%26+shipping+code+%F0%9F%8C%BF" alt="Typing SVG" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=16&pause=1000&color=0EF6CC&center=true&vCenter=true&width=460&lines=%3E+currently+building+something+cool...;%3E+GSoC+contributor+%40+IOOS;%3E+touching+grass+%26+shipping+code+%F0%9F%8C%BF"
+    alt="Typing SVG"
+  />
+</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=staree14&label=visitors&color=0e75b6&style=flat-square" alt="staree14" />
-
-</div>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=staree14&label=visitors&color=0e75b6&style=flat-square"
+    alt="Profile visitors"
+  />
+</p>
 
 ---
 
